@@ -12,7 +12,7 @@
 
         <property name="show_sql">true</property>
         <property name="current_session_context_class">thread</property>
-        <property name="hibernate.connection.requireSSl">true</property>
+       
         <!-- DB schema will be updated if needed -->
         <!-- <property name="hbm2ddl.auto">update</property> -->
     </session-factory>
